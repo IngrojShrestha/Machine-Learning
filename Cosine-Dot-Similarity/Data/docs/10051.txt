@@ -1,9 +1,0 @@
-configure
-modem
-setup
-setup
-try
-com
-terminal
-terminal
-wanted

@@ -1,4 +1,0 @@
-cpu
-application
-hardware
-software
